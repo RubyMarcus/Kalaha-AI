@@ -1,0 +1,19 @@
+Kalaha AI
+
+The course of action was to first complete the requirements for E-grade.
+Youtube-videos, the course book and other sources was used to get a deeper understanding of the minimax algorithm.
+Whenever we felt more comfortable with the algorithm, then we advanced to the state were we would be able to apply it
+to the AI agent.
+
+Implementation:
+The agent plays through the game (to some depth level) before hand and then used the minimax algorithm to recursively
+trace back the score, which would represent best action available.
+
+This kind of learning process was used to understand iterated deep-search and alpha-beta pruning, which
+later was implemented to the agent.
+
+To see the difference between e.g. the E-grade and B-grade, the E-agent and the B-agent played against each other,
+you can see a substantial difference in performance.
+
+By:
+Marcus Lundgren, Van Matti and Samer Albardan
